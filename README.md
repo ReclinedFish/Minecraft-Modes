@@ -1,4 +1,4 @@
-# Minecraft-Modes-modpack-[MCMOD][]-[CurseForge][]-etc.
+# Minecraft-Mods-modpack-[MCMOD][]-[CurseForge][]-etc.
 [MCMOD]: https://www.mcmod.cn/ 
 [CurseForge]: https://www.curseforge.com/minecraft/mc-mods
 
@@ -72,6 +72,12 @@ You can use the stop **button S--Stop** to stop transforming urls; use the clear
 
 ![image](https://user-images.githubusercontent.com/123816890/215403715-ca1e562e-1895-459d-a246-262985d51f76.png)
 
+我会将**check_dict_empty.py**文件，**get_modslist_mcmod.py**文件，**get_transurl_curseforge.py**文件，以及**main_tkinter.py**文件打包成**exe文件**，打包过程中使用的**ICO图标**，如有侵权，请联系[ReclinedFish][]邮箱，我会及时予以删除。
+
+[ReclinedFish]:ReclinedFish@proton.me
+
+**check_dict_empty.py** file, **get modslist mcmod.py** file, **get transurl curseforge.py** file, And **main tkinter.py** file is packaged into **exe**, the **ICON** used in the packaging process, if there is infringement, please contact **ReclinedFish email**, I will delete in time.
+
 
 ## 声明：| Statement:
 
@@ -80,6 +86,16 @@ You can use the stop **button S--Stop** to stop transforming urls; use the clear
 请各位理性使用，不要故意去增加[MCBBS][]平台的服务器负担。| Please use it rationally, and don't intentionally increase the server burden of the **MCMOD** platform.
 
 [MCBBS]:https://www.mcbbs.net/
+
+对于Python标准库tkinter的编程，主要使用了[OpenAI][]的聊天机器人[ChatGPT][]，我为**ChatGPT**的教学能力感到惊叹，这加深了我对**人工智能**方向的学习兴趣。
+
+[OpenAI]:https://openai.com/
+
+[ChatGPT]:https://chat.openai.com/chat
+
+For the programming of Python standard library tkinter, **ChatGPT** is mainly used by **OpenAI**. I was amazed by the teaching ability of **ChatGPT**, which deepened my interest in learning **Artificial Intelligence(AI)**.
+
+与大多数软件相同，本软件同样使用**MIT许可协议**。| Like most software, this software also uses the **MIT license**.
 
 
 ## 赞赏：| Donation:
@@ -108,3 +124,7 @@ I have applied for the **API** from CurseForge, and I will make **an .exe file**
 I received the application email on **January 16** (Monday), 2023, and received the approved application email on **January 29** (Sunday), 2023, which took **two weeks**.
 
 感谢CurseForge团队！| Thanks for The CurseForge team!
+
+我有计划开启一个新的**YouTube频道**，介绍我单独编程的一些**软件的使用方法**，我将不断学习和体验新技术，能给这个世界稍稍带来一点方便，我便心满意足了。
+
+I have plans to start a new **YouTube channel** to introduce **the use of some software** that I have programmed alone. I will continue to learn and experience new technologies. If I can bring a little convenience to the world, I will be satisfied.
