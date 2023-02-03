@@ -1,8 +1,8 @@
-# Minecraft-Mods-modpack-[MCMOD][]-[CurseForge][]-etc.
+# Minecraft Modpack ([MCMOD][]-[CurseForge][]-etc.) Mods` Excels Downloader 
 [MCMOD]: https://www.mcmod.cn/ 
 [CurseForge]: https://www.curseforge.com/minecraft/mc-mods
 
-Minecraft模组整合包的url链接下载器，可下载mod简体中文名称，以及与名称对应url，组成的的excel表格.xlsx文件。
+Minecraft模组整合包的内的模组的url链接下载器，可下载mod简体中文名称，以及与名称对应url，组成的的excel表格.xlsx文件。
 
 The url link downloader of the Minecraft modpack, which can download the simplified Chinese name of the mod and the corresponding url, which is composed of an excel .xlsx file.
 
